@@ -1,2 +1,4 @@
 # Do not commit input files
-input
+**/input
+
+**/__pycache__/
